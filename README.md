@@ -12,6 +12,10 @@ EN-US:
 
 📁 Here you will find my entire learning process and Python projects.
 
+![pedrohcdsouza GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohcdsouza&show_icons=true&theme=dracula)
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohcdsouza&layout=compact&hide_border=true&title_color=FFFFFF&text_color=76A6DD&bg_color=0d1117" />
+   <div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohcdsouza/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henriquei.pe/)
 [![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:pedrohcdsouza@hotmail.com)
