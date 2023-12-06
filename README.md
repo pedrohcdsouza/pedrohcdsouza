@@ -3,14 +3,14 @@ PT-BR:
 
 🎓 Prazer, me chamo Pedro Henrique, tenho 18 anos, e sou estudante em Redes de Computadores no IFRN-Cnat.
 
-📁 Aqui você irá encontrar todo o meu processo de aprendizagem e construções em Python.
+📁 Aqui você irá encontrar todo o meu processo de aprendizagem e construções em Python, banco de dados e cybersegurança.
 
 EN-US:
 ### _Aspiring_ *python* Programmer
 
 🎓 Hello, my name is Pedro Henrique, I'm 18 years old, and I'm a student in Computer Networks at IFRN-Cnat.
 
-📁 Here you will find my entire learning process and Python projects.
+📁 Here you will find my entire learning process and Python, back-end and cybersecurity projects.
 
 ![pedrohcdsouza GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohcdsouza&show_icons=true&theme=dracula)
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohcdsouza&layout=compact&hide_border=true&title_color=FFFFFF&text_color=76A6DD&bg_color=0d1117" />
