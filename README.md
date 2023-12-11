@@ -21,6 +21,8 @@ EN-US:
 [![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:pedrohcsousa8@hotmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pedrohcdsouza)
 
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=pedrohcdsouza&theme=dracula&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuição" />
+
 
 
 
