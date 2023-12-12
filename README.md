@@ -17,7 +17,7 @@ EN-US:
 
 📁 Here you will find my entire learning process and Python, back-end and cybersecurity projects.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohcdsouza&theme=dracula&show_icons=true) <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohcdsouza&show_icons=true&layout=compact&theme=dracula" alt="Most Used Languages" width="420px">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohcdsouza&theme=dracula&show_icons=true) <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohcdsouza&show_icons=true&layout=compact&theme=dracula" alt="Most Used Languages" width="300px">
 
 
 
