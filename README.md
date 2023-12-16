@@ -22,6 +22,7 @@ EN-US:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohcdsouza&theme=dracula&show_icons=true) <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohcdsouza&show_icons=true&layout=compact&theme=dracula" alt="Most Used Languages" width="375px">
 
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=pedrohcdsouza&theme=dracula&hide_border=false&show_icons=false&custom_title=Grafico%20de%20Contribuição" width="845px"/>
 
 
 
