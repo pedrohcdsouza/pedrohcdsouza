@@ -9,16 +9,16 @@
 PT-BR: 
 ### Programador em _formação_ de *python*
 
-🎓 Prazer, me chamo Pedro Henrique, tenho 18 anos, e sou estudante em Redes de Computadores no IFRN-Cnat.
+🎓 Prazer, me chamo Pedro Henrique, tenho 18 anos, e sou estudante no curso Técnologo de Analise e Desenvolvimentos de Sistemas no IFRN-Cnat.
 
-📁 Aqui você irá encontrar todo o meu processo de aprendizagem e construções em Python, banco de dados e cybersegurança.
+📁 Aqui você irá encontrar todo o meu processo de aprendizagem em programação.
 
 EN-US:
 ### _Aspiring_ *python* Programmer
 
-🎓 Hello, my name is Pedro Henrique, I'm 18 years old, and I'm a student in Computer Networks at IFRN-Cnat.
+🎓 Hello, my name is Pedro Henrique, I'm 18 years old, and I'm a studant in Technologist in Systems Analysis and Development at IFRN-Cnat.
 
-📁 Here you will find my entire learning process and Python, back-end and cybersecurity projects.
+📁 Here you will find my entire learning process in programming.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohcdsouza&theme=dracula&show_icons=true) <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohcdsouza&show_icons=true&layout=compact&theme=dracula" alt="Most Used Languages" width="375px">
 
