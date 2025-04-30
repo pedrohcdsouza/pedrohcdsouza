@@ -7,16 +7,16 @@
 
 
 PT-BR: 
-### Programador em _formação_ de *python*
+### Programador *python*
 
-🎓 Prazer, me chamo Pedro Henrique, tenho 18 anos, e sou estudante no curso Técnologo de Analise e Desenvolvimentos de Sistemas no IFRN-Cnat.
+🎓 Prazer, me chamo Pedro Henrique, tenho 20 anos, e estou estudante no curso Técnologo de Analise e Desenvolvimentos de Sistemas no IFRN-Cnat.
 
 📁 Aqui você irá encontrar todo o meu processo de aprendizagem em programação.
 
 EN-US:
-### _Aspiring_ *python* Programmer
+### Python Programmer
 
-🎓 Hello, my name is Pedro Henrique, I'm 18 years old, and I'm a studant in Technologist in Systems Analysis and Development at IFRN-Cnat.
+🎓 Hello, my name is Pedro Henrique, I'm 20 years old, and I'm a studant in Technologist in Systems Analysis and Development at IFRN-Cnat.
 
 📁 Here you will find my entire learning process in programming.
 
