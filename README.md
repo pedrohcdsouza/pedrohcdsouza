@@ -45,7 +45,7 @@ Na visão geral abaixo você encontrará minhas experiências de trabalho e proj
 
 **Desenvolvedor Fullstack** \
 [**Strategi Sistemas**](https://strategibrasil.com.br/) • (06/2025 - Atual) \
-Linguagens & Tecnologias: `Python`, `Django REST Framework`, `React`, `Docker`, `PostgreSQL`\
+Linguagens & Tecnologias: `Python`, `Django REST Framework`, `React`, `Docker`, `SQLServer`\
 Resumo: Desenvolvimento de sistemas web para as instituções SEBRAE
 <br/>
 
