@@ -29,10 +29,10 @@
 
 Na visão geral abaixo você encontrará minhas formações acadêmicas:
 
-[<img align="left" height="60px" width="30px" alt="IFRN" src="https://i.imgur.com/B0Axc8l.png"/>](https://portal.ifrn.edu.br/)
+<img align="left" height="60px" width="30px" alt="IFRN" src="https://i.imgur.com/B0Axc8l.png"/>
 
-**Instituto Federal do Rio Grande do Norte (IFRN)** \
-**Tecnólogo em Análise e Desenvolvimento de Sistemas (TADS)** • (2024/1 - Atual) \
+**Instituto Federal do Rio Grande do Norte [(IFRN)](https://portal.ifrn.edu.br/)** \
+**Tecnólogo em Análise e Desenvolvimento de Sistemas (TADS)** • (02/2024 - Atual) \
 <br/>
 
 ---
@@ -41,10 +41,14 @@ Na visão geral abaixo você encontrará minhas formações acadêmicas:
 
 Na visão geral abaixo você encontrará minhas experiências de trabalho e projetos recentes:
 
-[<img align="left" height="80px" width="120px" alt="Strategi Sistemas" src="https://i.imgur.com/dpZWDH1.png"/>](https://github.com/pedrohcdsouza/achieve)
+<img align="left" height="60px" width="30px" alt="Strategi Sistemas" src="https://i.imgur.com/Bfr4Nl3.png"/>
 
 **Desenvolvedor Fullstack** \
-[**Strategi Sistemas**](https://strategibrasil.com.br/) • Bolsista \
+[**Strategi Sistemas**](https://strategibrasil.com.br/) • (06/2025 - Atual) \
 Linguagens & Tecnologias: `Python`, `Django REST Framework`, `React`, `Docker`, `PostgreSQL`\
-Resumo: Desenvolvimento de sistemas web para o SEBRAE Nacional
+Resumo: Desenvolvimento de sistemas web para as instituções SEBRAE
 <br/>
+
+---
+
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=pedrohcdsouza&theme=material-palenight&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuição" />
